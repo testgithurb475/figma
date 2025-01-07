@@ -1,0 +1,112 @@
+.any{
+    height: 550px;
+    width: 800px;
+    margin: 120px 240px;
+    padding: 30px 20px;
+    background-color: #002062;
+    border: 1px solid #002062;
+    border-radius: 10px;
+}
+
+img{
+    height: 85px;
+    width: 300px;
+    top: 88px;
+    left: 88px;
+}
+
+.text{
+    margin-left: 15px;
+    top: 259px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    line-height: 15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.bar1{
+    background-color:#0F2D6B;    ;
+    width: 265px;
+    height: 33px;
+    margin-top: 9px;
+    margin-left: 15px;
+    gap: 0px;
+    border-radius: 10px;
+    border: 1px solid #0F2D6B;    ;
+    opacity: 0px;
+    color: #FFFFFF;
+}
+
+.bar2{
+    background-color:#0F2D6B;    ;
+    width: 265px;
+    height: 33px;
+    margin-top: 9px;
+    margin-left: 15px;
+    gap: 0px;
+    border-radius: 10px;
+    border: 1px solid #0F2D6B;    ;
+    opacity: 0px;
+    color: #FFFFFF;
+}
+
+.link{
+    color: #FFFFFF;
+    line-height: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    top: 50px;
+    margin-left: 160px;
+}
+
+.button{
+    margin-top: 70px;
+    margin-left: 13px;
+    width: 280px;
+    height: 42px;
+    top: 532px;
+    /* left: 114.5px; */
+    gap: 0px;
+    border-radius: 20px;
+    border: 0.3px solid darkorchid;
+    opacity: 0px;
+    background-color:darkorchid;
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.button:hover{
+    border: 1px solid black;
+    transition: 0.5s;
+}
+
+p{
+    color: #FFFFFF;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    line-height: 12px;
+}
+a{
+    color: darkorchid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 12px;
+}
+
+.imgae{
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 34px; 
+    height: 608px;
+    width: 471px;
+    
+   
+}
+
